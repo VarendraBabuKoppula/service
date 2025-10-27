@@ -1,7 +1,6 @@
 
 
-ServiceHub is a Java Spring Boot + ReactJS web application that empowers a community-driven online servicehub. 
-We connect service providers to service requesters directly to each other by removing the middleman.
+
 
 # Features
 
@@ -38,5 +37,3 @@ We connect service providers to service requesters directly to each other by rem
 
 
 
-# Test Coverage
-- [IntelliJ Code Coverage Screenshot](/assets/IntellijTestCoverageScreenshot.png)
